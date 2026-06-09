@@ -1,0 +1,4 @@
+spring:
+  data:
+  mongodb:
+    uri: mongodb://chat:chat@localhost:27017/chat?authSource=admin
